@@ -360,6 +360,10 @@ a.button:hover {
 	margin-right:24px;
 }
 
+.sierraLogo {
+    margin:0px 24px 12px 0px;
+}
+
 article a {
 	color:#7D7D7D;
 }
